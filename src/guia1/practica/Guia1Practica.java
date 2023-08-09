@@ -7,7 +7,8 @@ public class Guia1Practica {
    
     public static void main(String[] args) {
         
-        System.out.println("Hola!");    
+        System.out.println("Hola!");  
+        System.out.println("Hola, soy francisco me sumo al proyecto☻");
     
     }
     
