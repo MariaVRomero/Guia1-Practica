@@ -9,6 +9,7 @@ public class Guia1Practica {
         
         System.out.println("Hola!");  
         System.out.println("Hola, soy francisco me sumo al proyecto☻");
+        System.out.println("Hola, soy lucas");
     
     }
     
