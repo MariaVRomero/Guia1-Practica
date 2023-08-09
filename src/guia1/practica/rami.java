@@ -1,4 +1,5 @@
-//Esto es solo un ejemplo para probar Git
+///Esto es solo un ejemplo para probar Git
 
 
-//el git tampoco lo entiendo demasiado -♠♣♦○◘•☺☻♥65♦
+
+///el git tampoco lo entiendo demasiado -♠♣♦○◘•☺☻♥65♦
